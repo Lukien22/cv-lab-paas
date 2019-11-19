@@ -26,9 +26,7 @@ Cercate "Maria DB" e createne uno nuovo
 
 <details>
 <summary>Screenshoot</summary>
-<pre>
 ![MariaDB New](https://raw.githubusercontent.com/Lukiep/cv-lab-paas/master/images/create_mariadb.png)
-</pre>
 </details>
 
 Quando configurate la risorsa, utilizzate la naming convention:
