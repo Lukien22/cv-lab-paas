@@ -46,4 +46,21 @@ Infine cliccate sul pulsante "Create" per far partire il deploy
 ![MariaDB Create](https://raw.githubusercontent.com/Lukiep/cv-lab-paas/master/images/create_mariadb_create.png)
 
 Partirà quindi il deploy della risorsa
+
 ![MariaDB Create](https://raw.githubusercontent.com/Lukiep/cv-lab-paas/master/images/create_mariadb_deploy.png)
+
+## 3) Creare uno schema nel database in paas
+A questo punto dovete creare il vostro schema nel database appena creato, dove poi Wordpress instanzierà le sue tabelle. 
+Per fare questo collegatevi al database con il vostro tool preferito (es. MySQL Workbench):
+
+![MariaDB Create](https://raw.githubusercontent.com/Lukiep/cv-lab-paas/master/images/mariadb_newdb.png)
+
+![MariaDB Create](https://raw.githubusercontent.com/Lukiep/cv-lab-paas/master/images/mariadb_newdb2.png)
+
+<details>
+<summary>Tips</summary>
+<pre>
+Ricordatevi di autorizzare il vostro IP nella schermata "Connection Security"
+</pre>
+</details>
+
