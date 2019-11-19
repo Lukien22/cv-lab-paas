@@ -24,7 +24,12 @@ Per creare il nostro nuovo database, partendo dal vostro Resource Group, cliccat
 
 Cercate "Maria DB" e createne uno nuovo 
 
+<details>
+<summary>Screenshoot</summary>
+<pre>
 ![MariaDB New](https://raw.githubusercontent.com/Lukiep/cv-lab-paas/master/images/create_mariadb.png)
+</pre>
+</details>
 
 Quando configurate la risorsa, utilizzate la naming convention:
 ```bash
